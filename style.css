@@ -1,0 +1,11 @@
+.header {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: greenyellow;
+    color: black;
+    font-weight: bold;
+    border: 3px solid green;
+}
+.banner_img {
+    width : 500px;
+    background-image: url(bird.jpg);
+}
