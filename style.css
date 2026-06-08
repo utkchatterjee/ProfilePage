@@ -15,6 +15,15 @@ body {
     "sidebar hero hero"
     "links links links";
 }
+#Quote{
+    color: rgb(133, 87, 26);
+    font-weight: bold;
+    font-size: large;
+}
+.dark #Quote
+{
+    color: rgb(201, 158, 102);
+}
 .dark .gridcontainer {
     background-color:rgb(19, 4, 53);
     background-color:aqua;
